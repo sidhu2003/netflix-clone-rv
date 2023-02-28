@@ -1,0 +1,180 @@
+body {
+    margin: 0px;
+    background-color: #000000;
+    color: white;
+    font-family: ;
+}
+header{
+    background-image: linear-gradient(to bottom,
+                rgba(0, 0, 0, 0.7),
+                rgba(0, 0, 0, 0.7)), url("https://assets.nflxext.com/ffe/siteui/vlv3/3d6cf7c4-ad17-457a-b6cf-ea952926ba74/54a0de92-feb4-4891-8cb3-00a794ec89f6/IN-en-20230206-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+    height:730px;
+    border-bottom: 10px solid #222222;
+}
+.head1{
+    margin-top: 10px;
+    padding-top: 15px;
+    margin-left: 60px;
+    margin-right: 60px;
+    display: flex;
+    flex-direction: column;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.bsignin{
+    background-color: #e50914;
+    border: none;
+    font-weight: bold;
+    border-radius: 4px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+button{
+    background-color: transparent;
+    color: white;
+    border: 0.1px solid rgba(255, 255, 255, 0.537);
+    width: 7em;
+    padding: 10px 5px;
+    font-size: 13px;
+    margin: 20px;
+    margin-left: 20px;
+    margin-top: 0px;
+    border-radius: 2px;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10em;
+}
+p{
+    margin: 10px auto;
+    line-height: 50px;
+}
+.wel{
+    font-size: 30px;
+}
+.unl{
+    font-size: 70px;
+}
+.rea{
+    font-size: 21px;
+    margin-top: 0px;
+}
+.getst{
+    display: flex;
+}
+input{
+    height:70px;
+    width:550px;
+    margin: 0px;
+}
+
+.get{
+    height:75x;
+    width: 230px;
+    border-radius: 2px;
+    margin: 0px;
+    font-size: 25px;
+    background-color: #e50914;
+    border: none;
+    font-weight: 500;
+}
+.section1, .section2,.section3,footer{
+    border-bottom: 10px solid #222222;
+}
+.para{
+    width: 35em;
+}
+.center2{
+    padding: 3em 11em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.tv{
+    background-image: url("");
+}
+.eng,.dow{
+    font-size: 55px;
+    margin-bottom: 20px;
+    line-height: 60px;
+}
+.wat, .sav{
+    font-size: 30px;
+    line-height: 30px;
+}
+.image2{
+    display: flex;
+    justify-content: space-between;
+    border: 0.1px solid rgba(255, 255, 255, 0.537);
+    border-radius: 1em;
+    padding: 20px 20px;
+    height: 70px;
+    width: 300px;
+    position: relative;
+    top: -140px;
+    left: 80px;
+    background-color: black;
+}
+.image3{
+    display: flex;
+    justify-content: space-around;
+}
+.img3{
+    width: 60px; 
+    height: 70px;
+    margin-right: 10px;
+}
+.para2{
+    font-size: 17px;
+}
+.center3 {
+    padding: 3em 7em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.para3 {
+    width: 33em;
+}
+footer, .section3{
+    padding: 3em 20em;
+    color: #6f7373;
+}
+table{
+    position: static;
+    width: 1000px;
+    height: 160px;
+}
+td,th{
+    text-align:left;
+    font-size: medium;
+    font-weight: 500;
+}
+.but{
+    margin: 0px;
+    margin-top: 30px;
+    font-size: 15px;
+    color: #6f7373;
+    padding: 20px;
+    width:auto;
+}
+.que{
+    display: flex;
+    justify-content: space-between;
+    background-color: #303030;
+    color: white;
+    margin: 10px;
+    padding: 10px 40px;
+    font-size: 30px;
+}
+.para4{
+    font-size: 50px;
+    text-align: center; 
+    color: white; 
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
